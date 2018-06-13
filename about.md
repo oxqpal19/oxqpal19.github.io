@@ -8,15 +8,13 @@ titles:
 key: page-about
 ---
 
-Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
+欢迎来访我的博客。
 
-{% highlight javascript %}
-(() => console.log('hello, world!'))();
-{% endhighlight %}
+## 爱好
 
-## Skills
+- Mathematica & C++
+- Gal
 
-- HTML5, CSS3(SASS), JavaScript(ES2017, Node.js), Bash(Zsh)
-- React, React Native, Vue.js
-- gulp, webpack
-- Adobe Photoshop, Sketch
+## 联系方式
+
+（待补）
