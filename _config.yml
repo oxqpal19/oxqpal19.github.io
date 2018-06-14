@@ -43,11 +43,11 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 ## Author & social ##
 author:
-  name: oxqpal19
+  name: Blurrrred
   # email:  #your Email address e.g. someone@site.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
-  github: oxqpal19 #your GitHub username
+  # github: oxqpal19 #your GitHub username
   # googleplus:  #your Google+ username
   # weibo:  #your Weibo username
   # douban:  #your Douban username
@@ -64,20 +64,20 @@ disqus:
 ## Comment system (gitalk) ##
 # please refer to https://github.com/gitalk/gitalk for more info.
 gitalk:
-  clientID: a46cbf12b1445a961968 #Github Application Client ID
-  clientSecret: d430fbfcc77c56ce6e50eeea0d208ecdc3f81fde #Github Application Client Secret
-  repository: oxqpal19/oxqpal19.github.io #Github repo
-  owner: oxqpal19 #Github repo owner
-  admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
-    - owner
+#  clientID: a46cbf12b1445a961968 #Github Application Client ID
+#  clientSecret: d430fbfcc77c56ce6e50eeea0d208ecdc3f81fde #Github Application Client Secret
+#  repository: oxqpal19/oxqpal19.github.io #Github repo
+#  owner: oxqpal19 #Github repo owner
+#  admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
+#    - owner
 
 ## Google Analytics ##
 # ga_tracking_id:  #Google analytics id for the site
 
 ## Reading quantity (LeanCloud) ##
 leancloud:
-  # app_id:  #LeanCloud App id
-  # app_key:  #LeanCloud App key
+  app_id:  qDMcIkyJOhQ8cRU0UT9eLz5s-gzGzoHsz
+  app_key:  s3A3LpYimfdOSvqU0r5NkXye
   # app_class:  #LeanCloud App class
 
 # mathjax: true
