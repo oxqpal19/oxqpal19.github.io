@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 真实之月 | 引文
-key: 20180613
+key: dream-and-reality-1-introduction
 tags:
   - Feature
   - 真实之月
