@@ -50,4 +50,4 @@ tags:
 
 ## 延伸阅读
 
-[莱安娜之歌](/2018-06-15-dream-and-reality-1-1-further-reading.md)
+[莱安娜之歌](/2018/06/15/dream-and-reality-1-1-further-reading.md)
