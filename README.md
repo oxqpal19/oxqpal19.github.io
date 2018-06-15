@@ -12,4 +12,10 @@
 
 很可惜，答案似乎是否定的。这便是这一企划试图探讨的内容。
 
-目前进展：[规划中](https://github.com/oxqpal19/oxqpal19.github.io/projects/1)
+目前进展：[撰写中](https://github.com/oxqpal19/oxqpal19.github.io/projects/1)
+
+---
+
+关于企划名：这个企划的名字仿造“命运石之门”的风格，为追求无意义与中二感而生。
+
+可能跟东方也有点关系。
