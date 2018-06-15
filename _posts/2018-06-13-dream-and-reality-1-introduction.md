@@ -40,7 +40,7 @@ tags:
 
 ## 目录
 
-[真实之月·流行文化](/2018/06/15/dream-and-reality-1-1-1-introduction.md)
+[真实之月·流行文化](/2018/06/15/dream-and-reality-1-1-1-introduction)
 
 ---
 ## 注释
