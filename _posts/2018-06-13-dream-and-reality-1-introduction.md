@@ -7,22 +7,27 @@ tags:
   - 真实之月
 ---
 ```
-　　好吧，我们不再一起漫游
-　　消磨这幽深的夜晚，
-　　尽管这颗心仍旧迷恋，
-　　尽管阳光还那么灿烂。
-　　因为利剑可以磨破剑鞘，
-　　灵魂也把胸膛磨得够受，
-　　这颗心呵，它得停下来呼吸，
-　　爱情也得有歇停的时候。
-　　虽然夜晚为爱情而降临，
-　　很快的，很快又是白昼，
-　　但是在这月光的世界，我们已不再一起漫游。
+During the whole of dull, dark and soundless day 
+In the autumn of that year, when the clouds
+hung oppressively low in heavens, 
+I had been passing alone, on the horseback, 
+Through the singularly dreary tract of country; 
+and at length found myself as
+the shades of evening dew on, 
+within view of the melancholy House of Usher 
+I know not how it was 
+But, with the first glimpse of the building, a sense of
+insufferable gloom pervaded my spirit 
+I looked upon the simple landscape features of the domain 
+Upon the bleak walls, upon a few
+white trunks of decayed trees 
+With an utter depression of soul 
+There wasn't an iciness 
+A sinking.
+Sickening of the heart. 
 
-　　——拜伦爵士
+Detachment
 ```
-
-<!--more-->
 
 人类，自巴别塔倒塌以来，便深陷于囹圄之中。
 
