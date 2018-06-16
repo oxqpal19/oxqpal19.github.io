@@ -15,7 +15,7 @@ text_color_theme: default #eg: default | dark | forest | ocean | chocolate | ora
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Oxqpal's Blog
+title: Angel Dust
 description: > #this means to ignore newlines until "nav_lists:"
   Angel Dust
 
@@ -47,7 +47,7 @@ author:
   # email:  #your Email address e.g. someone@site.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
-  # github: oxqpal19 #your GitHub username
+  # github:  #your GitHub username
   # googleplus:  #your Google+ username
   # weibo:  #your Weibo username
   # douban:  #your Douban username
@@ -64,10 +64,10 @@ disqus:
 ## Comment system (gitalk) ##
 # please refer to https://github.com/gitalk/gitalk for more info.
 gitalk:
-#  clientID: a46cbf12b1445a961968 #Github Application Client ID
-#  clientSecret: d430fbfcc77c56ce6e50eeea0d208ecdc3f81fde #Github Application Client Secret
-#  repository: oxqpal19/oxqpal19.github.io #Github repo
-#  owner: oxqpal19 #Github repo owner
+#  clientID:  #Github Application Client ID
+#  clientSecret:  #Github Application Client Secret
+#  repository: #Github repo
+#  owner: #Github repo owner
 #  admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
 #    - owner
 
