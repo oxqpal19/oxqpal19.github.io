@@ -6,6 +6,7 @@ tags: 翻译
 ---
 
 From Wikipedia, the free encyclopedia
+<https://en.wikipedia.org/wiki/Qualia>
 
 ---
 
