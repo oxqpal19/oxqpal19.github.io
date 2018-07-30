@@ -12,11 +12,11 @@ From Wikipedia, the free encyclopedia
 
 *这篇文章是关于哲学概念“感质”的。对于其他的用法，请参阅[感质(消歧义)](https://en.wikipedia.org/wiki/Qualia_(disambiguation))*
 
-在哲学中，感质（qualia，[/ˈkwɑːliə/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English") or [/ˈkweɪliə/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English"); 单数形式: **quale**）的定义是主观意识的经验的独立存在(instances)。Qualia这个词源自拉丁语中的形容词[quālis](https://en.wiktionary.org/wiki/qualis "wikt:qualis")的中性复数形式，意为“of what sort”或“of what kind”（大致意为“...性”，例如红色性、有香味性一类）在一特定事例(instance)中，例如“去尝一个橘子，一个当前的特定的橘子，感觉是什么样的”。
+在哲学中，感质（qualia，[/ˈkwɑːliə/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English") or [/ˈkweɪliə/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English"); 单数形式: **quale**）的定义是主观意识经验的独立存在。Qualia这个词源自拉丁语中的形容词[quālis](https://en.wiktionary.org/wiki/qualis "wikt:qualis")的中性复数形式，意为“of what sort”或“of what kind”（大致意为“...性”，例如红色性、有香味性等）在一特定事例中，例如“去尝一个橘子，一个当前的特定的橘子，感觉是什么样的”。
 
-感质的其他例子包括被感受到的头痛感，被尝到的酒（的味道），以及天空的红色性（redness）。作为感受的性质特征（qualitative characters，可能可以翻译为感觉材料），感质与“命题式态度”（propositional attitudes）相对，后者关注对经验的信念（belief）而不是直接感到的感受材料。
+感质的其他例子包括头痛感，尝酒时的感受，以及天空的红色性（redness）。作为感受的性质特征（qualitative characters，感觉材料），感质与“命题式态度”（propositional attitudes）相对，后者关注对经验的信念（belief）而不是直接感到的感受材料。
 
-哲学家、认知科学家Daniel Dennett曾经表示“感质是‘一个我们不熟悉的词汇’，用以描述再熟悉不过的东西：事物在我们眼中的样子（the ways things seem to us）”
+哲学家、认知科学家Daniel Dennett曾经表示“感质是‘一个我们不熟悉的词汇’，用以描述再熟悉不过的东西：事物在我们眼中的样子”
 
 很多辩论过度着重于这个词的定义，以及不同哲学家或强调或否定感质的特定特征的存在。因而，不同的对于感质的定义的自然性和存在性仍然有争议，这归咎于它不是一个可以实证的物质（matter）。
 
@@ -28,9 +28,9 @@ From Wikipedia, the free encyclopedia
 
 Clarence Irving Lewis，在他的书*Mind and the World Order（1929）*中，第一次用到了“感质”这个词的在现代广为接受的定义。
 
->有一些可辨认的被给予的感觉材料（qualitative characters），它们可能可以在不同的经验中被重复，从而是一种通用的类别；我把它们叫做“感质”。但是即使如上定义的感质是普遍的（universal），在不同经历中被辨认时，它们必须与事物的属性区分开来。对这两者的混淆是许多历史上的概念，甚至是现代核心理论（essence-theories）的特征。感质是直觉的（intuited）、被给予的（given），而不是任何可能的错误的结果；因为它是纯粹主观的。
+>有一些可辨认的被给予的感觉材料（qualitative characters），它们可能可以在不同的经验中被重复，从而是普遍的；我把它们叫做“感质”。但是即使感质是普遍的，在不同经历中被辨认时，它们必须被与事物的属性区分开来。对这两者的混淆是许多历史上的概念，甚至是现代核心理论的特征。感质是直觉的（intuited）、被给予的，而不是任何可能的错误的结果；因为它是纯粹主观的。
 
-Frank Jackson(1982)后来把感质定义为“主要是特定的身体感觉（bodily sensations），但也包括特定感知经验（perceptual experiences），其中不包括纯粹的物理上的信息。”
+Frank Jackson(1982)后来把感质定义为“主要是特定的身体感觉，但也包括特定感知经验，其中不包括纯粹的物理上的信息。”
 
 Daniel Dennet定义了4个常常归于感质的属性：
 1. 不可言说：它们不能被交流，或者被以除直接经历外的任何方式传达。
@@ -38,11 +38,11 @@ Daniel Dennet定义了4个常常归于感质的属性：
 3. 私人的：任何对它的人际交流是完全不可能的（它具有内在不可交流性）。
 4. 可直接或立即理解性：经历一个感质就是知道自己经历了这一感质，且知道所有关于这一感质的信息。
 
-如果感质如此描述，那么一个拥有正常视觉的人看到红色时根本不可能描述这一感受使得从来没有感受过色彩的人能够完全理解这一经历。考虑到可以做出类比，如”红色看起来是热情（hot）的”，或者提供一个对看到红色时的条件的描述，如“当一束波长为700nm的光射向你时你能看到红色”，感质的这种定义的支持者认为这种尝试不能使对方完全理解这一经验。
+如果感质如此描述，那么一个拥有正常视觉的人看到红色时，完全不可能描述这一感受以使从来没有感受过色彩的人能够完全理解这一经历。考虑到解释者可以做出类比，如”红色看起来是热情（hot）的”，或者给出一个看到红色时的条件，如“当一束波长为700nm的光射向你时你能看到红色”，感质的这种定义的支持者认为，这种尝试不能使对方完全理解这一经验。
 
 另一个感知的定义是“未处理的感觉（感觉材料，raw feel）”。感觉材料是一种实存的感受本身(in and of itself)，不对人的行为或行为倾向有任何影响。相反，处理过的感觉（cooked feel）是因它对人的影响而被感知的。如，尝酒时的总体感觉是无法言说的感觉材料，但是尝酒时温暖的感受或苦味是一个cooked feel。Cooked feel不是感质。
 
-根据Saul Kripke在他的论文“Identity and Necessity”（1971）中提出的一个观点，“感觉材料可以被有意义地讨论---感觉材料实存（exists）”的一个关键推论是使得两个实体展现出完全相同的行为，除了其中一个缺失感质，在逻辑上可能发生。物理主义的反对者声称，只凭借这个推论就足以否定物理主义；虽然很少有人去讨论这种缺失感质的实体（它们被称做哲学僵尸）。
+根据Saul Kripke在他的论文“Identity and Necessity”（1971）中提出的一个观点，“感觉材料可以被有意义地讨论---感觉材料实存”的一个关键推论是：两个实体展现出完全相同的行为，除了其中一个缺失感质，在逻辑上可能。物理主义的反对者声称，只凭借这个推论就足以否定物理主义；虽然很少有人去讨论这种缺失感质的实体（它们被称做哲学僵尸）。
 
 ## 对感质存在性的争议
 
