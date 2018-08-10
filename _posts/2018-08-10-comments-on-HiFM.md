@@ -61,11 +61,11 @@ tags:
 
 fata馆是同人作品。批评空间90点台。
 
-![萌新三连](./2018-08-10-comments-on-HiFM.jpg)
+![萌新三连](https://raw.githubusercontent.com/oxqpal19/oxqpal19.github.io/master/_posts/2018-08-10-comments-on-HiFM.jpg)
 
 这部Gal的画风和音乐都相当独特（BGM大量参杂葡萄牙语，画风偏油画），相当有欧洲感。
 
-![画风参考](./2018-08-10-comments-on-HiFM(2).jpg)
+![画风参考](https://raw.githubusercontent.com/oxqpal19/oxqpal19.github.io/master/_posts/2018-08-10-comments-on-HiFM(2).jpg)
 
 正如宣传文案所写的，这是一部讲述跨越千年的悲剧、人性及狂乱的长篇视觉小说。开场时以第二人称叙述的故事中，“男主”没有名字甚至性别。序幕在火炉照耀下开场，苍白的女仆向【你】伸出了手。
 
