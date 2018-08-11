@@ -26,6 +26,12 @@ nav_lists:
       zh-Hans: 关于
       zh-Hant: 關於
     url: /about.html
+  - titles:
+      en: Excerpts
+      zh: 片段
+      zh-Hans: 片段
+      zh-Hant: 片段
+    url: /excerpts.html
 
 # paths:
 #   base: /
