@@ -1,10 +1,6 @@
 ---
 layout: page
-titles:
-  en: Excerpts
-  zh: 片段
-  zh-Hans: 片段
-  zh-Hant: 片段
+titles: Excerpts
 key: page-excerpts
 ---
 
