@@ -5,11 +5,19 @@ key:
 tags: gal
 ---
 
+## 屋上的百合灵
+
+原名：屋上の百合霊さん
+
+地址：<https://bgm.tv/subject/27499>
+
+---
+
 ## 片羽
 
 原名：カタハネ
 
-地址：<http://bgm.tv/subject/2844>
+地址：<https://bgm.tv/subject/2844>
 
 ---
 
@@ -17,7 +25,7 @@ tags: gal
 
 原名：サツコイ～悠久なる恋の歌～
 
-地址：<http://bgm.tv/subject/103136>
+地址：<https://bgm.tv/subject/103136>
 
 <!--more-->
 
@@ -27,13 +35,13 @@ tags: gal
 
 原名：天使の羽根を踏まないでっ
 
-地址：<http://bgm.tv/subject/15439>
+地址：<https://bgm.tv/subject/15439>
 
 ---
 
 ## 雪影 -setsuei-
 
-地址：<http://bgm.tv/subject/882>
+地址：<https://bgm.tv/subject/882>
 
 ---
 
@@ -41,7 +49,7 @@ tags: gal
 
 原名：セブンスコート
 
-地址：<http://bgm.tv/subject/91173>
+地址：<https://bgm.tv/subject/91173>
 
 ---
 
@@ -49,7 +57,7 @@ tags: gal
 
 原名：ファタモルガーナの館
 
-地址：<http://bgm.tv/subject/73806>
+地址：<https://bgm.tv/subject/73806>
 
 ---
 
@@ -57,37 +65,37 @@ tags: gal
 
 原名：らくえん～あいかわらずなぼく。の場合～
 
-地址：<http://bgm.tv/subject/13966>
+地址：<https://bgm.tv/subject/13966>
 
 ---
 
 ## ものべの -happy end-
 
-地址：<http://bgm.tv/subject/68004>
+地址：<https://bgm.tv/subject/68004>
 
 ---
 
 ## 恋*シンアイ彼女
 
-地址：<http://bgm.tv/subject/132528>
+地址：<https://bgm.tv/subject/132528>
 
 ---
 
 ## BALDR SKY Dive2 "RECORDARE"
 
-地址：<http://bgm.tv/subject/12098>
+地址：<https://bgm.tv/subject/12098>
 
 ---
 
 ## BALDR SKY Dive1 "LostMemory"
 
-地址：<http://bgm.tv/subject/1457>
+地址：<https://bgm.tv/subject/1457>
 
 ---
 
 ## RIDDLE JOKER
 
-地址：<http://bgm.tv/subject/231798>
+地址：<https://bgm.tv/subject/231798>
 
 ---
 
@@ -95,7 +103,7 @@ tags: gal
 
 原名：アストラエアの白き永遠 Finale-白き星の夢-
 
-地址：<http://bgm.tv/subject/179995>
+地址：<https://bgm.tv/subject/179995>
 
 ---
 
@@ -103,7 +111,7 @@ tags: gal
 
 原名：ハピメア
 
-地址：<http://bgm.tv/subject/48010>
+地址：<https://bgm.tv/subject/48010>
 
 ---
 
@@ -111,13 +119,13 @@ tags: gal
 
 原名：SWAN SONG
 
-地址：<http://bgm.tv/subject/2722>
+地址：<https://bgm.tv/subject/2722>
 
 ---
 
 ## ISLAND
 
-地址：<http://bgm.tv/subject/150191>
+地址：<https://bgm.tv/subject/150191>
 
 ---
 
@@ -125,7 +133,7 @@ tags: gal
 
 原名：紙の上の魔法使い
 
-地址：<http://bgm.tv/subject/111552>
+地址：<https://bgm.tv/subject/111552>
 
 ---
 
@@ -133,7 +141,7 @@ tags: gal
 
 原名：アストラエアの白き永遠
 
-地址：<http://bgm.tv/subject/78544>
+地址：<https://bgm.tv/subject/78544>
 
 ---
 
@@ -141,7 +149,7 @@ tags: gal
 
 原名：ef - the first tale.
 
-地址：<http://bgm.tv/subject/1488>
+地址：<https://bgm.tv/subject/1488>
 
 ---
 
@@ -149,7 +157,7 @@ tags: gal
 
 原名：ピアノの森の満開の下
 
-地址：<http://bgm.tv/subject/6681>
+地址：<https://bgm.tv/subject/6681>
 
 ---
 
@@ -157,7 +165,7 @@ tags: gal
 
 原名：赫炎のインガノック -What a beautiful people-
 
-地址：<http://bgm.tv/subject/7942>
+地址：<https://bgm.tv/subject/7942>
 
 ---
 
@@ -165,7 +173,7 @@ tags: gal
 
 原名：暗い部屋
 
-地址：<http://bgm.tv/subject/7870>
+地址：<https://bgm.tv/subject/7870>
 
 ---
 
@@ -173,7 +181,7 @@ tags: gal
 
 原名：フローラル・フローラブ
 
-地址：<http://bgm.tv/subject/172842>
+地址：<https://bgm.tv/subject/172842>
 
 ---
 
@@ -181,7 +189,7 @@ tags: gal
 
 原名：パルフェ ～chocolat second brew Re-order～
 
-地址：<http://bgm.tv/subject/846>
+地址：<https://bgm.tv/subject/846>
 
 ---
 
@@ -189,7 +197,7 @@ tags: gal
 
 原名：ショコラ ～maid cafe "curio"～
 
-地址：<http://bgm.tv/subject/1173>
+地址：<https://bgm.tv/subject/1173>
 
 ---
 
@@ -197,7 +205,7 @@ tags: gal
 
 原名：Doki Doki Literature Club!
 
-地址：<http://bgm.tv/subject/228086>
+地址：<https://bgm.tv/subject/228086>
 
 ---
 
@@ -205,13 +213,13 @@ tags: gal
 
 原名：明日の君と逢うために
 
-地址：<http://bgm.tv/subject/15703>
+地址：<https://bgm.tv/subject/15703>
 
 ---
 
 ## Narcissu 10th Anniversary Anthology Project
 
-地址：<http://bgm.tv/subject/174632>
+地址：<https://bgm.tv/subject/174632>
 
 ---
 
@@ -219,7 +227,7 @@ tags: gal
 
 原名：去人たちⅠ／Ⅱ
 
-地址：<http://bgm.tv/subject/114304>
+地址：<https://bgm.tv/subject/114304>
 
 ---
 
@@ -227,7 +235,7 @@ tags: gal
 
 原名：向日葵の教会と長い夏休み
 
-地址：<http://bgm.tv/subject/41565>
+地址：<https://bgm.tv/subject/41565>
 
 ---
 
@@ -235,7 +243,7 @@ tags: gal
 
 原名：生命のスペア
 
-地址：<http://bgm.tv/subject/183179>
+地址：<https://bgm.tv/subject/183179>
 
 ---
 
@@ -243,7 +251,7 @@ tags: gal
 
 原名：すきま桜とうその都会
 
-地址：<http://bgm.tv/subject/15327>
+地址：<https://bgm.tv/subject/15327>
 
 ---
 
@@ -251,7 +259,7 @@ tags: gal
 
 原名：月影のシミュラクル -解放の羽-
 
-地址：<http://bgm.tv/subject/196972>
+地址：<https://bgm.tv/subject/196972>
 
 ---
 
@@ -259,13 +267,13 @@ tags: gal
 
 原名：晴のちきっと菜の花びより
 
-地址：<http://bgm.tv/subject/100308>
+地址：<https://bgm.tv/subject/100308>
 
 ---
 
 ## Aster
 
-地址：<http://bgm.tv/subject/12569>
+地址：<https://bgm.tv/subject/12569>
 
 ---
 
@@ -273,7 +281,7 @@ tags: gal
 
 原名：はつゆきさくら
 
-地址：<http://bgm.tv/subject/19002>
+地址：<https://bgm.tv/subject/19002>
 
 ---
 
@@ -281,7 +289,7 @@ tags: gal
 
 原名：雨のマージナル
 
-地址：<http://bgm.tv/subject/121971>
+地址：<https://bgm.tv/subject/121971>
 
 ---
 
@@ -289,7 +297,7 @@ tags: gal
 
 原名：灯穂奇譚
 
-地址：<http://bgm.tv/subject/27561>
+地址：<https://bgm.tv/subject/27561>
 
 ---
 
@@ -297,7 +305,7 @@ tags: gal
 
 原名：テレビの消えた日
 
-地址：<http://bgm.tv/subject/16965>
+地址：<https://bgm.tv/subject/16965>
 
 ---
 
@@ -305,25 +313,25 @@ tags: gal
 
 原名：桃色恋恋（れんげ） ～姉妹とつむぐエッチな関係～
 
-地址：<http://bgm.tv/subject/95593>
+地址：<https://bgm.tv/subject/95593>
 
 ---
 
 ## ネコぱら vol.3 ネコたちのアロマティゼ
 
-地址：<http://bgm.tv/subject/194573>
+地址：<https://bgm.tv/subject/194573>
 
 ---
 
 ## ネコぱら vol.2 姉妹ネコのシュクレ
 
-地址：<http://bgm.tv/subject/163324>
+地址：<https://bgm.tv/subject/163324>
 
 ---
 
 ## ネコぱら vol.1 ソレイユ開店しました！
 
-地址：<http://bgm.tv/subject/107596>
+地址：<https://bgm.tv/subject/107596>
 
 ---
 
@@ -331,7 +339,7 @@ tags: gal
 
 原名：加奈 〜いもうと〜
 
-地址：<http://bgm.tv/subject/8025>
+地址：<https://bgm.tv/subject/8025>
 
 ---
 
@@ -339,7 +347,7 @@ tags: gal
 
 原名：ゴア・スクリーミング・ショウ
 
-地址：<http://bgm.tv/subject/25617>
+地址：<https://bgm.tv/subject/25617>
 
 ---
 
@@ -347,7 +355,7 @@ tags: gal
 
 原名：穢翼のユースティア
 
-地址：<http://bgm.tv/subject/12280>
+地址：<https://bgm.tv/subject/12280>
 
 ---
 
@@ -355,7 +363,7 @@ tags: gal
 
 原名：あかね色に染まる坂
 
-地址：<http://bgm.tv/subject/1374>
+地址：<https://bgm.tv/subject/1374>
 
 ---
 
@@ -363,7 +371,7 @@ tags: gal
 
 原名：ユメミルクスリ
 
-地址：<http://bgm.tv/subject/838>
+地址：<https://bgm.tv/subject/838>
 
 ---
 
@@ -371,7 +379,7 @@ tags: gal
 
 原名：リアル妹がいる大泉くんのばあい
 
-地址：<http://bgm.tv/subject/5949>
+地址：<https://bgm.tv/subject/5949>
 
 ---
 
@@ -379,7 +387,7 @@ tags: gal
 
 原名：鬼うた。
 
-地址：<http://bgm.tv/subject/14566>
+地址：<https://bgm.tv/subject/14566>
 
 ---
 
@@ -387,7 +395,7 @@ tags: gal
 
 原名：沙耶の唄
 
-地址：<http://bgm.tv/subject/851>
+地址：<https://bgm.tv/subject/851>
 
 ---
 
@@ -395,7 +403,7 @@ tags: gal
 
 原名：車輪の国、悠久の少年少女
 
-地址：<http://bgm.tv/subject/16246>
+地址：<https://bgm.tv/subject/16246>
 
 ---
 
@@ -403,7 +411,7 @@ tags: gal
 
 原名：planetarian ～ちいさなほしのゆめ～
 
-地址：<http://bgm.tv/subject/859>
+地址：<https://bgm.tv/subject/859>
 
 ---
 
@@ -411,7 +419,7 @@ tags: gal
 
 原名：車輪の国、向日葵の少女
 
-地址：<http://bgm.tv/subject/1124>
+地址：<https://bgm.tv/subject/1124>
 
 ---
 
@@ -419,7 +427,7 @@ tags: gal
 
 原名：鬼哭街
 
-地址：<http://bgm.tv/subject/2071>
+地址：<https://bgm.tv/subject/2071>
 
 ---
 
@@ -427,13 +435,13 @@ tags: gal
 
 原名：雫 ～しずく～
 
-地址：<http://bgm.tv/subject/7872>
+地址：<https://bgm.tv/subject/7872>
 
 ---
 
 ## 夢か現かマトリョーシカ
 
-地址：<http://bgm.tv/subject/47486>
+地址：<https://bgm.tv/subject/47486>
 
 ---
 
@@ -441,7 +449,7 @@ tags: gal
 
 原名：ソレヨリノ前奏詩
 
-地址：<http://bgm.tv/subject/107501>
+地址：<https://bgm.tv/subject/107501>
 
 ---
 
@@ -449,7 +457,7 @@ tags: gal
 
 原名：夏空のペルセウス
 
-地址：<http://bgm.tv/subject/42554>
+地址：<https://bgm.tv/subject/42554>
 
 ---
 
@@ -457,13 +465,13 @@ tags: gal
 
 原名：銃騎士 Cutie☆Bullet
 
-地址：<http://bgm.tv/subject/73736>
+地址：<https://bgm.tv/subject/73736>
 
 ---
 
 ## 恋騎士 Purely\[FivePointedStar]Kiss
 
-地址：<http://bgm.tv/subject/18362>
+地址：<https://bgm.tv/subject/18362>
 
 ---
 
@@ -471,7 +479,7 @@ tags: gal
 
 原名：倉野くんちのふたご事情
 
-地址：<http://bgm.tv/subject/44773>
+地址：<https://bgm.tv/subject/44773>
 
 ---
 
@@ -479,13 +487,13 @@ tags: gal
 
 原名：シンフォニック=レイン
 
-地址：<http://bgm.tv/subject/1143>
+地址：<https://bgm.tv/subject/1143>
 
 ---
 
 ## 夏ノ雨
 
-地址：<http://bgm.tv/subject/7847>
+地址：<https://bgm.tv/subject/7847>
 
 ---
 
@@ -493,7 +501,7 @@ tags: gal
 
 原名：死神の接吻は別離の味
 
-地址：<http://bgm.tv/subject/14963>
+地址：<https://bgm.tv/subject/14963>
 
 ---
 
@@ -501,7 +509,7 @@ tags: gal
 
 原名：黄昏のシンセミア
 
-地址：<http://bgm.tv/subject/7700>
+地址：<https://bgm.tv/subject/7700>
 
 ---
 
@@ -509,7 +517,7 @@ tags: gal
 
 原名：いきなりあなたに恋している
 
-地址：<http://bgm.tv/subject/14293>
+地址：<https://bgm.tv/subject/14293>
 
 ---
 
@@ -517,7 +525,7 @@ tags: gal
 
 原名：narcissu 3rd -Die Driette Welt-
 
-地址：<http://bgm.tv/subject/1504>
+地址：<https://bgm.tv/subject/1504>
 
 ---
 
@@ -525,7 +533,7 @@ tags: gal
 
 原名：narcissu SIDE 2nd
 
-地址：<http://bgm.tv/subject/1168>
+地址：<https://bgm.tv/subject/1168>
 
 ---
 
@@ -533,7 +541,7 @@ tags: gal
 
 原名：narcissu
 
-地址：<http://bgm.tv/subject/1167>
+地址：<https://bgm.tv/subject/1167>
 
 ---
 
@@ -541,7 +549,7 @@ tags: gal
 
 原名：ハルカナソラ
 
-地址：<http://bgm.tv/subject/6967>
+地址：<https://bgm.tv/subject/6967>
 
 ---
 
@@ -549,7 +557,7 @@ tags: gal
 
 原名：ヨスガノソラ
 
-地址：<http://bgm.tv/subject/2388>
+地址：<https://bgm.tv/subject/2388>
 
 ---
 
@@ -557,7 +565,7 @@ tags: gal
 
 原名：Undertale
 
-地址：<http://bgm.tv/subject/147713>
+地址：<https://bgm.tv/subject/147713>
 
 ---
 
@@ -565,13 +573,13 @@ tags: gal
 
 原名：美少女万華鏡 -罪と罰の少女-
 
-地址：<http://bgm.tv/subject/175467>
+地址：<https://bgm.tv/subject/175467>
 
 ---
 
 ## Clover Day's
 
-地址：<http://bgm.tv/subject/82389>
+地址：<https://bgm.tv/subject/82389>
 
 ---
 
@@ -579,7 +587,7 @@ tags: gal
 
 原名：WHITE ALBUM2 -closing chapter-
 
-地址：<http://bgm.tv/subject/22290>
+地址：<https://bgm.tv/subject/22290>
 
 ---
 
@@ -587,7 +595,7 @@ tags: gal
 
 原名：ef - the latter tale.
 
-地址：<http://bgm.tv/subject/1089>
+地址：<https://bgm.tv/subject/1089>
 
 ---
 
@@ -595,7 +603,7 @@ tags: gal
 
 原名：euphoria
 
-地址：<http://bgm.tv/subject/19385>
+地址：<https://bgm.tv/subject/19385>
 
 ---
 
@@ -603,4 +611,4 @@ tags: gal
 
 原名：素晴らしき日々～不連続存在～
 
-地址：<http://bgm.tv/subject/4639>
+地址：<https://bgm.tv/subject/4639>
