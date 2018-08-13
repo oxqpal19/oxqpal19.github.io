@@ -5,7 +5,7 @@ key:
 tags: gal
 ---
 
-片羽
+## 片羽
 
 原名：カタハネ
 
@@ -13,7 +13,7 @@ tags: gal
 
 ---
 
-杀恋～悠久流传的恋之歌
+## 杀恋～悠久流传的恋之歌
 
 原名：サツコイ～悠久なる恋の歌～
 
@@ -23,7 +23,7 @@ tags: gal
 
 ---
 
-不要践踏天使的羽毛
+## 不要践踏天使的羽毛
 
 原名：天使の羽根を踏まないでっ
 
@@ -31,13 +31,13 @@ tags: gal
 
 ---
 
-雪影 -setsuei-
+## 雪影 -setsuei-
 
 地址：<http://bgm.tv/subject/882>
 
 ---
 
-Seventh Coat
+## Seventh Coat
 
 原名：セブンスコート
 
@@ -45,7 +45,7 @@ Seventh Coat
 
 ---
 
-海市蜃楼之馆
+## 海市蜃楼之馆
 
 原名：ファタモルガーナの館
 
@@ -53,7 +53,7 @@ Seventh Coat
 
 ---
 
-乐园～一如既往的我。的存在～
+## 乐园～一如既往的我。的存在～
 
 原名：らくえん～あいかわらずなぼく。の場合～
 
@@ -61,37 +61,37 @@ Seventh Coat
 
 ---
 
-ものべの -happy end-
+## ものべの -happy end-
 
 地址：<http://bgm.tv/subject/68004>
 
 ---
 
-恋*シンアイ彼女
+## 恋*シンアイ彼女
 
 地址：<http://bgm.tv/subject/132528>
 
 ---
 
-BALDR SKY Dive2 "RECORDARE"
+## BALDR SKY Dive2 "RECORDARE"
 
 地址：<http://bgm.tv/subject/12098>
 
 ---
 
-BALDR SKY Dive1 "LostMemory"
+## BALDR SKY Dive1 "LostMemory"
 
 地址：<http://bgm.tv/subject/1457>
 
 ---
 
-RIDDLE JOKER
+## RIDDLE JOKER
 
 地址：<http://bgm.tv/subject/231798>
 
 ---
 
-星辰恋曲的白色永恒 白色星之梦
+## 星辰恋曲的白色永恒 白色星之梦
 
 原名：アストラエアの白き永遠 Finale-白き星の夢-
 
@@ -99,7 +99,7 @@ RIDDLE JOKER
 
 ---
 
-幸福噩梦
+## 幸福噩梦
 
 原名：ハピメア
 
@@ -107,7 +107,7 @@ RIDDLE JOKER
 
 ---
 
-天鹅之歌
+## 天鹅之歌
 
 原名：SWAN SONG
 
@@ -115,13 +115,13 @@ RIDDLE JOKER
 
 ---
 
-ISLAND
+## ISLAND
 
 地址：<http://bgm.tv/subject/150191>
 
 ---
 
-纸上的魔法使
+## 纸上的魔法使
 
 原名：紙の上の魔法使い
 
@@ -129,7 +129,7 @@ ISLAND
 
 ---
 
-星辰恋曲的白色永恒
+## 星辰恋曲的白色永恒
 
 原名：アストラエアの白き永遠
 
@@ -137,7 +137,7 @@ ISLAND
 
 ---
 
-悠久之翼-前篇
+## 悠久之翼-前篇
 
 原名：ef - the first tale.
 
@@ -145,7 +145,7 @@ ISLAND
 
 ---
 
-盛开的钢琴之森下
+## 盛开的钢琴之森下
 
 原名：ピアノの森の満開の下
 
@@ -153,7 +153,7 @@ ISLAND
 
 ---
 
-赫炎的印加诺克
+## 赫炎的印加诺克
 
 原名：赫炎のインガノック -What a beautiful people-
 
@@ -161,7 +161,7 @@ ISLAND
 
 ---
 
-暗之部屋
+## 暗之部屋
 
 原名：暗い部屋
 
@@ -169,7 +169,7 @@ ISLAND
 
 ---
 
-花之天使的夏日恋歌
+## 花之天使的夏日恋歌
 
 原名：フローラル・フローラブ
 
@@ -177,7 +177,7 @@ ISLAND
 
 ---
 
-女仆咖啡帕露菲
+## 女仆咖啡帕露菲
 
 原名：パルフェ ～chocolat second brew Re-order～
 
@@ -185,7 +185,7 @@ ISLAND
 
 ---
 
-女仆咖啡巧克拉
+## 女仆咖啡巧克拉
 
 原名：ショコラ ～maid cafe "curio"～
 
@@ -193,7 +193,7 @@ ISLAND
 
 ---
 
-心动文学俱乐部
+## 心动文学俱乐部
 
 原名：Doki Doki Literature Club!
 
@@ -201,7 +201,7 @@ ISLAND
 
 ---
 
-为与明日君相逢
+## 为与明日君相逢
 
 原名：明日の君と逢うために
 
@@ -209,13 +209,13 @@ ISLAND
 
 ---
 
-Narcissu 10th Anniversary Anthology Project
+## Narcissu 10th Anniversary Anthology Project
 
 地址：<http://bgm.tv/subject/174632>
 
 ---
 
-离开的人们
+## 离开的人们
 
 原名：去人たちⅠ／Ⅱ
 
@@ -223,7 +223,7 @@ Narcissu 10th Anniversary Anthology Project
 
 ---
 
-向日葵的教会与长长的暑假
+## 向日葵的教会与长长的暑假
 
 原名：向日葵の教会と長い夏休み
 
@@ -231,7 +231,7 @@ Narcissu 10th Anniversary Anthology Project
 
 ---
 
-生命的备件
+## 生命的备件
 
 原名：生命のスペア
 
@@ -239,7 +239,7 @@ Narcissu 10th Anniversary Anthology Project
 
 ---
 
-隙间樱花与谎言都市
+## 隙间樱花与谎言都市
 
 原名：すきま桜とうその都会
 
@@ -247,7 +247,7 @@ Narcissu 10th Anniversary Anthology Project
 
 ---
 
-月影之幻像 -解放的翅膀-
+## 月影之幻像 -解放的翅膀-
 
 原名：月影のシミュラクル -解放の羽-
 
@@ -255,7 +255,7 @@ Narcissu 10th Anniversary Anthology Project
 
 ---
 
-晴霁之后定是菜花盛开的好天气
+## 晴霁之后定是菜花盛开的好天气
 
 原名：晴のちきっと菜の花びより
 
@@ -263,13 +263,13 @@ Narcissu 10th Anniversary Anthology Project
 
 ---
 
-Aster
+## Aster
 
 地址：<http://bgm.tv/subject/12569>
 
 ---
 
-初雪樱
+## 初雪樱
 
 原名：はつゆきさくら
 
@@ -277,7 +277,7 @@ Aster
 
 ---
 
-雨的边缘
+## 雨的边缘
 
 原名：雨のマージナル
 
@@ -285,7 +285,7 @@ Aster
 
 ---
 
-灯穗奇谭
+## 灯穗奇谭
 
 原名：灯穂奇譚
 
@@ -293,7 +293,7 @@ Aster
 
 ---
 
-电波消逝之日
+## 电波消逝之日
 
 原名：テレビの消えた日
 
@@ -301,7 +301,7 @@ Aster
 
 ---
 
-桃色恋恋：与姐妹相系的H关系
+## 桃色恋恋：与姐妹相系的H关系
 
 原名：桃色恋恋（れんげ） ～姉妹とつむぐエッチな関係～
 
@@ -309,25 +309,25 @@ Aster
 
 ---
 
-ネコぱら vol.3 ネコたちのアロマティゼ
+## ネコぱら vol.3 ネコたちのアロマティゼ
 
 地址：<http://bgm.tv/subject/194573>
 
 ---
 
-ネコぱら vol.2 姉妹ネコのシュクレ
+## ネコぱら vol.2 姉妹ネコのシュクレ
 
 地址：<http://bgm.tv/subject/163324>
 
 ---
 
-ネコぱら vol.1 ソレイユ開店しました！
+## ネコぱら vol.1 ソレイユ開店しました！
 
 地址：<http://bgm.tv/subject/107596>
 
 ---
 
-加奈妹妹
+## 加奈妹妹
 
 原名：加奈 〜いもうと〜
 
@@ -335,7 +335,7 @@ Aster
 
 ---
 
-Gore Screaming Show
+## Gore Screaming Show
 
 原名：ゴア・スクリーミング・ショウ
 
@@ -343,7 +343,7 @@ Gore Screaming Show
 
 ---
 
-秽翼的尤斯蒂娅
+## 秽翼的尤斯蒂娅
 
 原名：穢翼のユースティア
 
@@ -351,7 +351,7 @@ Gore Screaming Show
 
 ---
 
-染红的街道
+## 染红的街道
 
 原名：あかね色に染まる坂
 
@@ -359,7 +359,7 @@ Gore Screaming Show
 
 ---
 
-梦见之药
+## 梦见之药
 
 原名：ユメミルクスリ
 
@@ -367,7 +367,7 @@ Gore Screaming Show
 
 ---
 
-实妹相伴的大泉君
+## 实妹相伴的大泉君
 
 原名：リアル妹がいる大泉くんのばあい
 
@@ -375,7 +375,7 @@ Gore Screaming Show
 
 ---
 
-鬼歌。
+## 鬼歌。
 
 原名：鬼うた。
 
@@ -383,7 +383,7 @@ Gore Screaming Show
 
 ---
 
-沙耶之歌
+## 沙耶之歌
 
 原名：沙耶の唄
 
@@ -391,7 +391,7 @@ Gore Screaming Show
 
 ---
 
-车轮之国、悠久的少年少女
+## 车轮之国、悠久的少年少女
 
 原名：車輪の国、悠久の少年少女
 
@@ -399,7 +399,7 @@ Gore Screaming Show
 
 ---
 
-星之梦
+## 星之梦
 
 原名：planetarian ～ちいさなほしのゆめ～
 
@@ -407,7 +407,7 @@ Gore Screaming Show
 
 ---
 
-车轮之国、向日葵的少女
+## 车轮之国、向日葵的少女
 
 原名：車輪の国、向日葵の少女
 
@@ -415,7 +415,7 @@ Gore Screaming Show
 
 ---
 
-鬼哭街
+## 鬼哭街
 
 原名：鬼哭街
 
@@ -423,7 +423,7 @@ Gore Screaming Show
 
 ---
 
-雫
+## 雫
 
 原名：雫 ～しずく～
 
@@ -431,13 +431,13 @@ Gore Screaming Show
 
 ---
 
-夢か現かマトリョーシカ
+## 夢か現かマトリョーシカ
 
 地址：<http://bgm.tv/subject/47486>
 
 ---
 
-永不落幕的前奏诗
+## 永不落幕的前奏诗
 
 原名：ソレヨリノ前奏詩
 
@@ -445,7 +445,7 @@ Gore Screaming Show
 
 ---
 
-夏空的英仙座
+## 夏空的英仙座
 
 原名：夏空のペルセウス
 
@@ -453,7 +453,7 @@ Gore Screaming Show
 
 ---
 
-铳骑士 Cutie☆Bullet
+## 铳骑士 Cutie☆Bullet
 
 原名：銃騎士 Cutie☆Bullet
 
@@ -461,13 +461,13 @@ Gore Screaming Show
 
 ---
 
-恋騎士 Purely\[FivePointedStar]Kiss
+## 恋騎士 Purely\[FivePointedStar]Kiss
 
 地址：<http://bgm.tv/subject/18362>
 
 ---
 
-仓野家的双子情事
+## 仓野家的双子情事
 
 原名：倉野くんちのふたご事情
 
@@ -475,7 +475,7 @@ Gore Screaming Show
 
 ---
 
-交响乐之雨
+## 交响乐之雨
 
 原名：シンフォニック=レイン
 
@@ -483,13 +483,13 @@ Gore Screaming Show
 
 ---
 
-夏ノ雨
+## 夏ノ雨
 
 地址：<http://bgm.tv/subject/7847>
 
 ---
 
-死神之吻乃离别之味
+## 死神之吻乃离别之味
 
 原名：死神の接吻は別離の味
 
@@ -497,7 +497,7 @@ Gore Screaming Show
 
 ---
 
-黄昏的禁忌之药
+## 黄昏的禁忌之药
 
 原名：黄昏のシンセミア
 
@@ -505,7 +505,7 @@ Gore Screaming Show
 
 ---
 
-突然之间发现我已恋上你
+## 突然之间发现我已恋上你
 
 原名：いきなりあなたに恋している
 
@@ -513,7 +513,7 @@ Gore Screaming Show
 
 ---
 
-水仙3
+## 水仙3
 
 原名：narcissu 3rd -Die Driette Welt-
 
@@ -521,7 +521,7 @@ Gore Screaming Show
 
 ---
 
-水仙2
+## 水仙2
 
 原名：narcissu SIDE 2nd
 
@@ -529,7 +529,7 @@ Gore Screaming Show
 
 ---
 
-水仙
+## 水仙
 
 原名：narcissu
 
@@ -537,7 +537,7 @@ Gore Screaming Show
 
 ---
 
-悠之空
+## 悠之空
 
 原名：ハルカナソラ
 
@@ -545,7 +545,7 @@ Gore Screaming Show
 
 ---
 
-缘之空
+## 缘之空
 
 原名：ヨスガノソラ
 
@@ -553,7 +553,7 @@ Gore Screaming Show
 
 ---
 
-地下传说
+## 地下传说
 
 原名：Undertale
 
@@ -561,7 +561,7 @@ Gore Screaming Show
 
 ---
 
-美少女万华镜 -罪与罚的少女
+## 美少女万华镜 -罪与罚的少女
 
 原名：美少女万華鏡 -罪と罰の少女-
 
@@ -569,13 +569,13 @@ Gore Screaming Show
 
 ---
 
-Clover Day's
+## Clover Day's
 
 地址：<http://bgm.tv/subject/82389>
 
 ---
 
-白色相簿2 终章
+## 白色相簿2 终章
 
 原名：WHITE ALBUM2 -closing chapter-
 
@@ -583,7 +583,7 @@ Clover Day's
 
 ---
 
-悠久之翼-后篇
+## 悠久之翼-后篇
 
 原名：ef - the latter tale.
 
@@ -591,7 +591,7 @@ Clover Day's
 
 ---
 
-乐园
+## 乐园
 
 原名：euphoria
 
@@ -599,7 +599,7 @@ Clover Day's
 
 ---
 
-美好的每一天 ～不连续的存在～
+## 美好的每一天 ～不连续的存在～
 
 原名：素晴らしき日々～不連続存在～
 
