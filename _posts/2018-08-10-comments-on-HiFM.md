@@ -4,7 +4,7 @@ title: 海市蜃楼之馆 | The House in Fata Morgana
 key: 
 tags: 
     - 原创
-    - Gal
+    - gal
 ---
 
 这是一个以被诅咒的洋馆为背景的哥特式悬疑故事。「海市蜃楼之馆」是一部讲述跨越千年的悲剧、人性及狂乱的长篇视觉小说。
