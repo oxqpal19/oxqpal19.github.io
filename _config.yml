@@ -24,7 +24,6 @@ title   : Angel Dust
 description: > # this means to ignore newlines until "Language & timezone"
   索菲亚是天空中闪耀的球体。她绝对不可能照亮我，因为我是“我”的影子。
 
-
 ## => Language and Timezone
 ##############################
 lang: # the language of your site, "en" (default, English), "zh"(简体中文), "zh-Hans"(简体中文), "zh-Hant"(繁體中文)
