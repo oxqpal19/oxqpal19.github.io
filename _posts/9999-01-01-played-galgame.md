@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 已攻略Galgame统计
 key: 
 tags: gal

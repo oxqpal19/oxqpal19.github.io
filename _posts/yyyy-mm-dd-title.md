@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 维基百科翻译计划 | Qualia·感质
+layout: article
+title: 
 key: 
-tags: 翻译
+tags: 
 ---
 
 <!--more-->

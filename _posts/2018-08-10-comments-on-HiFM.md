@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 海市蜃楼之馆 | The House in Fata Morgana
 key: 
 tags: 

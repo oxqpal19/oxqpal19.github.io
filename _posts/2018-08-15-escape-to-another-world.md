@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 翻译 | ESCAPE TO ANOTHER WORLD
 key: 
 tags: 翻译

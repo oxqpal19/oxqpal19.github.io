@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 维基百科翻译计划 | La trahison des images·形象的叛逆
 key: 
 tags: 翻译

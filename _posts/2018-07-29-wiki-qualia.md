@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 维基百科翻译计划 | Qualia·感质
 key: 
 tags: 翻译
@@ -117,7 +117,3 @@ Jackson首先争辩说感质是副现象的---考虑到物理规律，不是偶�
 #### Roger Orpwood
 
 Roger Orpwood是一个有着丰富神经机制研究经验的工程师。他提出了一个神经科学模型，用以解释感质---以及最终解释意识。认知和计算神经科学不断完善，使得从科学角度研究心智和感质的需求变得迫切。Orpwood并不否认感质的存在；他认为，感质是通过大脑皮层的[re-entrant feedback](https://en.wikipedia.org/wiki/Reentry_(neural_circuitry))机制创造出的。
-
-# 结语
-
-如果说，在科学研究与哲学研究之间存在某种不言自明的界限的话，那么，感质这一概念上的争论则已表明：解读者必定被迫把这一界限复杂化，并将其拓展、膨胀为有待进一步澄清的意义空间。

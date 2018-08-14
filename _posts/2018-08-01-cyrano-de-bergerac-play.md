@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 维基百科翻译计划 | Cyrano de Bergerac(戏剧)
 key: 
 tags: 翻译

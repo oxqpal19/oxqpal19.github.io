@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Galgame鄙视表
 key: 
 tags: 转载

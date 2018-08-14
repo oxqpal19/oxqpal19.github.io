@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 维基百科翻译计划 | Lambda Calculus·λ演算
 key: 
 tags: 翻译
