@@ -29,7 +29,7 @@ From Wikiversity, <https://en.wikiversity.org/wiki/Literature/1929/Magritte>
 
 笔者认为，首先且最好地提出一个关于真理性的——artifact和fact之间的关系——的至关重要的问题，并使之广为流传的人，是Ogden & Richards（1923）。他们发明了如下图所示的[参考三角形（the triangle of reference）](https://en.wikipedia.org/wiki/triangle_of_reference)。
 
-![the triangle of reference](2018-08-14-this-is-not-a-pipe(3).png)
+![the triangle of reference](/assets/images/2018-08-14-this-is-not-a-pipe(3).png)
 
 这在六十年后被一个英国哲学家，Simon Blackburn（1984）所剽窃，没有指出它的原发明者——他肯定知道这个方法的先驱是谁。为什么他这么羞于承认这一点呢？学术界很可能只不过是个充满了炒冷饭的知识和剽窃物的象牙塔；也许就是资本主义的末路的丑陋象征！笔者认为，为了延续学术的活力，学术界应该勇于承认自己所欠下的知识债。
 
