@@ -3,6 +3,7 @@ layout: article
 title: 已攻略Galgame统计
 key: 
 tags: gal
+toc: false
 ---
 
 ## 屋上的百合灵
