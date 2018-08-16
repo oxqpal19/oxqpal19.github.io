@@ -187,3 +187,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - amp-jekyll
