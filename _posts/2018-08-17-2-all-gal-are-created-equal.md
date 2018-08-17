@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Dogura Magura | 全世界中二青年们站起来撸！
+title: Dogura Magura
 key: 
 tags: 原创
 ---
