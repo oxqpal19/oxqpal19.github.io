@@ -7,9 +7,15 @@ tags:
     - 原创
 ---
 
-![gif1](/assets/images/2018-08-17-wangjingze.gif)
+本文只是玩笑。笔者是严肃的剧情厨！拔作什么的，……！（迫真）
+
+那个啊，Monobeno真好玩
 
 <!--more-->
+
+---
+
+![gif1](/assets/images/2018-08-17-wangjingze.gif)
 
 ---
 
