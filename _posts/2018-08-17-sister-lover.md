@@ -7,6 +7,12 @@ tags:
     - 原创
 ---
 
+![gif1](/assets/images/2018-08-17-wangjingze.gif)
+
+<!--more-->
+
+---
+
 姐姐情人 分析：
 
 类别：拔作
@@ -21,8 +27,8 @@ tags:
 
 总结：拔作
 
-![gif1](/assets/images/2018-08-17-wangjingze.gif)
+---
 
-### 如何评价一个四斋
+## 如何评价一个四斋
 
 ![gif2](/assets/images/2018-08-17-weisuoyuwei.gif)
