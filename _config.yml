@@ -35,7 +35,7 @@ author:
   type      : # "person" (default), "organization"
   name      : YawnF1Sh
   url       :
-  avatar    : # path or url of avatar image
+  avatar    : /assets/images/logo/avatar.jpg # path or url of avatar image
   bio       : 
   email     : yawnfish@protonmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
