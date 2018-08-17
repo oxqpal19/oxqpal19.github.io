@@ -21,8 +21,8 @@ tags:
 
 总结：拔作
 
-![gif1](/assets/image/2018-08-17-wangjingze.gif)
+![gif1](/assets/images/2018-08-17-wangjingze.gif)
 
 ### 如何评价一个四斋
 
-![gif2](/assets/image/2018-08-17-weisuoyuwei.gif)
+![gif2](/assets/images/2018-08-17-weisuoyuwei.gif)
