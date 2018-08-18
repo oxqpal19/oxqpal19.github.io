@@ -12,7 +12,7 @@ tags: 原创
 ---
 
 <script>
-        if (prompt('请输入文章密码','') !== '13572468'){
+        if (prompt('This trivial encrypt is made with Javascript','password') !== '13572468'){
             alert('密码错误！');
             history.back();
         }
