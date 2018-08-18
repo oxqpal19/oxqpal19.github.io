@@ -5,15 +5,15 @@ key:
 tags: 原创
 ---
 
-> 我的命题应当是以如下方式来起阐明作用的：任何理解我的人，当他用这些命题为梯级而超越了它们时，就会终于认识到它们是无意义的。（可以说，在登上高处之后他必须把梯子扔掉。）
+> 我的命题应当是以如下方式来起阐明作用的：任何理解我的人，当他用这些命题为梯级而超越了它们时，就会终于认识到它们是无意义的。（可以说，在登上高处之后他必须把梯子扔掉。） ——路德维希·维特根斯坦
 
 <!--more-->
 
 ---
 
 <script>
-        if (prompt('This trivial encrypt is made with Javascript','password') !== '13572468'){
-            alert('密码错误！');
+        if (prompt('This trivial encryption is made with Javascript','password') !== '@'){
+            alert('Wrong password！');
             history.back();
         }
 </script>
