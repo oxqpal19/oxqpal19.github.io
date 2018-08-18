@@ -12,10 +12,10 @@ tags: 原创
 ---
 
 <script>
-        if (prompt('请输入文章密码','') !== '13572468'){
+        (function(){if (prompt('请输入文章密码','') !== '13572468'){
             alert('密码错误！');
             history.back();
-        }
+        })();
 </script>
 
 中二青年喜欢反抗世俗。
