@@ -41,12 +41,12 @@ Leibniz偶尔会以“预定调和系统的提出者”自居。
 
 - [Best of all possible worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
 
-- [Noumenon | 本体](https://en.wikipedia.org/wiki/Noumenon)
+- [Noumenon · 本体](https://en.wikipedia.org/wiki/Noumenon)
 
-- [Occasionalism | 机缘论](https://en.wikipedia.org/wiki/Occasionalism)
+- [Occasionalism · 机缘论](https://en.wikipedia.org/wiki/Occasionalism)
 
-- [Phenomenon | 现象](https://en.wikipedia.org/wiki/Phenomenon)
+- [Phenomenon · 现象](https://en.wikipedia.org/wiki/Phenomenon)
 
-- [Superdeterminism | 超决定论](https://en.wikipedia.org/wiki/Superdeterminism)
+- [Superdeterminism · 超决定论](https://en.wikipedia.org/wiki/Superdeterminism)
 
 ps “Superdeterminism”是决定论（determinism）的泛化，它认为自由意志完全不存在。
