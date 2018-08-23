@@ -20,7 +20,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Angel Dust
+title   : Predawn
 description: 索菲亚是天空中闪耀的球体。她绝对不可能照亮我，因为我是“我”的影子。> # this means to ignore newlines until "Language & timezone"
 
 ## => Language and Timezone
