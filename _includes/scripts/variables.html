@@ -1,6 +1,9 @@
 {%- include snippets/get-sources.html -%}
 {%- assign _sources = __return -%}
 
+{%- include snippets/get-nav-url.html path="/assets/search.js" -%}
+{%- assign _paths_search_js = __return -%}
+
 <script>
   (function() {
     var TEXT_VARIABLES = {
@@ -20,6 +23,9 @@
         toc: {
           selectors: '{{ site.toc.selectors | default: site.data.variables.default.toc.selectors }}'
         }
+      },
+      paths: {
+        search_js: '{{ _paths_search_js }}'
       }
     };
     window.TEXT_VARIABLES = TEXT_VARIABLES;

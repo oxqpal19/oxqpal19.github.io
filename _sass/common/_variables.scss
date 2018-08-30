@@ -66,6 +66,13 @@ $spacers: (
   5:                      map-get($base, spacer) * 3
 );
 
+$z-index: (
+  actions: 996,
+  mask: 997,
+  sidebar: 998,
+  search: 999
+);
+
 $layout: (
   header-height:          5rem,
   header-height-sm:       3rem,
@@ -81,7 +88,7 @@ $layout: (
 // 0       500      1024      -
 
 $responsive: (
-  sm:                      0px,
+  sm:                      0,
   md:                      500px,
   lg:                      1024px
 );
@@ -95,23 +102,24 @@ $link: (
   transition:             all .2s ease-in-out
 );
 
+$button-height-lg:        2.3rem;
+$button-height:           1.9rem;
+$button-height-sm:        1.5rem;
+
 $button: (
-  padding-y-lg:           .3rem,
-  padding-x-lg:           1.2rem,
-
-  padding-y:              .1rem,
-  padding-x:              .55rem,
-
-  padding-y-sm:           .06rem,
-  padding-x-sm:           .35rem,
-
-  font-weight:            map-get($base, font-weight-bold),
+  padding-y-lg:           ($button-height-lg - map-get($base, font-size-lg)) / 2,
+  padding-x-lg:           $button-height-lg / 3,
+  padding-y:              ($button-height - map-get($base, font-size)) / 2,
+  padding-x:              $button-height / 3,
+  padding-y-sm:           ($button-height-sm - map-get($base, font-size-sm)) / 2,
+  padding-x-sm:           $button-height-sm / 3,
 
   pill-radius:            4rem,
 
-  circle-diameter-lg:     2.8rem,
-  circle-diameter:        2rem,
-  circle-diameter-sm:     1.5rem,
+  circle-diameter-lg:     $button-height-lg,
+  circle-diameter:        $button-height,
+  circle-diameter-sm:     $button-height-sm,
+  font-weight:            map-get($base, font-weight-bold),
 
   transition:             all .2s ease-in-out
 );

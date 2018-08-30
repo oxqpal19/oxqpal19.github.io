@@ -2,9 +2,9 @@
   var SOURCES = window.TEXT_VARIABLES.sources;
   window.Lazyload.js(SOURCES.jquery, function() {
     var $window = $(window), $root, $scrollTarget, $scroller, $scroll;
-    var rootTop, rootLeft, rootHeight, scrollBottom, rootBottomTop, lastScrollTop;
+    var rootTop, rootLeft, rootHeight, scrollBottom, rootBottomTop;
     var offsetBottom = 0, disabled = false, scrollTarget = window, scroller = 'html, body', scroll = window.document;
-    var hasInit = false, isOverallScroller = true;
+    var hasInit = false, isOverallScroller = true, curState;
 
     function setOptions(options) {
       var _options = options || {};
@@ -15,14 +15,13 @@
       _options.disabled !== undefined && (disabled = _options.disabled);
       $scrollTarget = $(scrollTarget);
       $scroller = $(scroller);
-      isOverallScroller = window.isOverallScroller($scroller[0]);
+      isOverallScroller = window.isOverallScroller($scrollTarget[0]);
       $scroll = $(scroll);
-      calc(true);
     }
     function initData() {
       top();
       rootHeight = $root.outerHeight();
-      rootTop = $root.offset().top + (isOverallScroller ? 0 :  $scroller.scrollTop());
+      rootTop = $root.offset().top + (isOverallScroller ? 0 :  $scrollTarget.scrollTop());
       rootLeft = $root.offset().left;
     }
     function calc(needInitData) {
@@ -31,55 +30,64 @@
       rootBottomTop = scrollBottom - rootTop;
     }
     function top() {
-      $root.removeClass('fixed').css({
-        left: 0,
-        top: 0
-      });
+      if (curState !== 'top') {
+        $root.removeClass('fixed').css({
+          left: 0,
+          top: 0
+        });
+        curState = 'top';
+      }
     }
     function fixed() {
-      $root.addClass('fixed').css({
-        left: rootLeft + 'px',
-        top: 0
-      });
+      if (curState !== 'fixed') {
+        $root.addClass('fixed').css({
+          left: rootLeft + 'px',
+          top: 0
+        });
+        curState = 'fixed';
+      }
     }
     function bottom() {
-      $root.removeClass('fixed').css({
-        left: 0,
-        top: rootBottomTop + 'px'
-      });
+      if (curState !== 'bottom') {
+        $root.removeClass('fixed').css({
+          left: 0,
+          top: rootBottomTop + 'px'
+        });
+        curState = 'bottom';
+      }
     }
-    function setState(force) {
-      force !== true && (force = false);
+    function setState() {
       var scrollTop = $scrollTarget.scrollTop();
       if (scrollTop >= rootTop && scrollTop <= scrollBottom) {
-        (!force && lastScrollTop >= rootTop && lastScrollTop <= scrollBottom) || fixed();
+        fixed();
       } else if (scrollTop < rootTop) {
-        (!force && lastScrollTop < rootTop) || top();
+        top();
       } else {
-        (!force && lastScrollTop > scrollBottom) || bottom();
+        bottom();
       }
-      lastScrollTop = scrollTop;
     }
     function init() {
       if(!hasInit) {
         var interval, timeout;
         calc(true); setState();
-        // run calc every 1.5 seconds
+        // run calc every 100 millisecond
         interval = setInterval(function() {
           calc();
-        }, 1500);
+        }, 100);
         timeout = setTimeout(function() {
           clearInterval(interval);
-        }, 50000);
+        }, 45000);
         window.pageLoad.then(function() {
-          clearInterval(interval);
-          clearTimeout(timeout);
+          setTimeout(function() {
+            clearInterval(interval);
+            clearTimeout(timeout);
+          }, 3000);
         });
         $scrollTarget.on('scroll', function() {
           disabled || setState();
         });
         $window.on('resize', window.throttle(function() {
-          disabled || (calc(true), setState(true));
+          disabled || (calc(true), setState());
         }, 100));
         hasInit = true;
       }
@@ -95,7 +103,10 @@
         init();
       }, 200));
       return {
-        setOptions: setOptions
+        setOptions: setOptions,
+        refresh: function() {
+          calc(true); setState();
+        }
       };
     }
     $.fn.affix = affix;

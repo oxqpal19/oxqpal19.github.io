@@ -14,7 +14,6 @@
       $headings = $(container).find(selectors);
       $scrollTarget = $(scrollTarget);
       $scroller = $(scroller);
-      calc();
     }
     function calc() {
       headingsPos = [];
@@ -23,7 +22,7 @@
       });
     }
     function setState(element, disabled) {
-      var scrollTop = $scroller.scrollTop(), i;
+      var scrollTop = $scrollTarget.scrollTop(), i;
       if (disabled || !headingsPos || headingsPos.length < 1) { return; }
       if (element) {
         $activeCur = element;
@@ -65,16 +64,18 @@
       var interval, timeout;
       if(!hasInit) {
         render(); calc(); setState(null, scrolling);
-        // run calc every 1.5 seconds
+        // run calc every 100 millisecond
         interval = setInterval(function() {
           calc();
-        }, 1500);
+        }, 100);
         timeout = setTimeout(function() {
           clearInterval(interval);
-        }, 50000);
+        }, 45000);
         window.pageLoad.then(function() {
-          clearInterval(interval);
-          clearTimeout(timeout);
+          setTimeout(function() {
+            clearInterval(interval);
+            clearTimeout(timeout);
+          }, 3000);
         });
         $scrollTarget.on('scroll', function() {
           disabled || setState(null, scrolling);
@@ -100,7 +101,6 @@
         setOptions: setOptions
       };
     }
-    toc.setOptions = setOptions;
     $.fn.toc = toc;
   });
 })();
